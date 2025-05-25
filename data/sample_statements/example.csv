@@ -1,0 +1,24 @@
+Date,Description,Amount,Category
+2025-01-01,Salary,5000,Income
+2025-01-03,Rent,-1500,Housing
+2025-01-05,Groceries,-120,Food
+2025-01-07,Coffee,-4,Food
+2025-01-10,Uber,-25,Transport
+2025-01-12,Electricity Bill,-80,Utilities
+2025-01-15,Internet,-60,Utilities
+2025-01-18,Spotify Subscription,-10,Entertainment
+2025-01-20,Dining Out,-45,Food
+2025-01-25,Gym Membership,-50,Fitness
+2025-01-28,Freelance Income,600,Income
+2025-01-30,Clothing,-120,Shopping
+2025-02-01,Salary,5000,Income
+2025-02-03,Rent,-1500,Housing
+2025-02-06,Groceries,-130,Food
+2025-02-08,Coffee,-5,Food
+2025-02-10,Gasoline,-50,Transport
+2025-02-13,Electricity Bill,-75,Utilities
+2025-02-15,Netflix Subscription,-15,Entertainment
+2025-02-18,Dining Out,-55,Food
+2025-02-22,Gym Membership,-50,Fitness
+2025-02-25,Freelance Income,500,Income
+2025-02-28,Amazon Purchase,-90,Shopping

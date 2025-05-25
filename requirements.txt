@@ -1,0 +1,9 @@
+streamlit
+pandas
+openai
+matplotlib
+seaborn
+plotly
+scikit-learn
+prophet
+python-dotenv
